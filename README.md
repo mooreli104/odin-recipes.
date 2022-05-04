@@ -1,1 +1,3 @@
 # odin-recipes.
+
+In my first project, I'll be working on my first website using pure HTML to write down a recipe. Skills use will be: creating an html file and boilerplaye, creating absolute and relative links, using relative links to connect multiple webpages, using html elements such as "em" and "strong," adding images to website, creating headers and bodyparagraphs, and practicing git and GitHub. 
